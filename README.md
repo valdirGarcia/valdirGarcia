@@ -16,7 +16,7 @@
     <img align="center" alt="Matplotlib" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"> 
     <img align="center" alt="Scikitlearn" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"> 
     <img align="center" alt="Git" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-    <img src="https://media.tenor.com/9k7CtFaopkcAAAAi/grogu-baby-yoda.gif" width="100" />
+    <img src="https://media.tenor.com/9k7CtFaopkcAAAAi/grogu-baby-yoda.gif" width="80" />
   </div>
 
 
