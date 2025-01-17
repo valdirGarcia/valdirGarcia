@@ -5,8 +5,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdirGarcia&layout=compact&theme=radical" width="36.5%" />
 </div>
 
-
-<div style="display: inline_block"><br>
+<div style="display: flex; justify-content: space-between; width: 100%; align-items: center;">
+ <div style="display: inline_block"><br>
  <!-- <img align="center" alt="Power BI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg"> -->
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -15,6 +15,8 @@
  <!-- <img align="center" alt="Seaborn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
  <!-- <img align="center" alt="Matplotlib" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ </div>
+<img src="https://media.tenor.com/9k7CtFaopkcAAAAi/grogu-baby-yoda.gif" width="100" />
 </div>
 
 #
