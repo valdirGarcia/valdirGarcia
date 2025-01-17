@@ -1,17 +1,12 @@
 # Olá! 👋 Bem-vindo ao meu GitHub
 
-Sou um entusiasta de **Ciência de Dados** 📊, estudante da **EBAC** e da **FATEC** 🎓. Estou sempre explorando novas ferramentas e técnicas para transformar dados em soluções reais.
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=valdirGarcia&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdirGarcia&layout=compact&theme=radical" width="36.5%" />
+</div>
 
----
+#
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valdirGarcia&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=valdirGarcia&layout=compact&theme=radical)
-
----
-
-### Principais habilidades:
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,13 +17,8 @@ Sou um entusiasta de **Ciência de Dados** 📊, estudante da **EBAC** e da **FA
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
----
-
-## 📬 Entre em contato comigo:
+#
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519992613775)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valdirjc2002@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdirgarciajr)
-
----
