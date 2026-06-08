@@ -1,11 +1,5 @@
 # Olá! 👋 Bem-vindo ao meu GitHub
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=valdirGarcia&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdirGarcia&layout=compact&theme=radical" width="36.5%" />
-</div>
-
-
   <div style="display: flex; gap: 10px;">
     <img align="center" alt="Power BI" height="50" width="50" src="https://static.wixstatic.com/media/3bb017_794e30e2988f4ef29839105d343cac7c~mv2.png/v1/fill/w_440,h_248,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3bb017_794e30e2988f4ef29839105d343cac7c~mv2.png"> 
     <img align="center" alt="SQL" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
